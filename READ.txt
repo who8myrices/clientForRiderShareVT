@@ -1,0 +1,10 @@
+My job for this project was to work on the login and rating system for the project. 
+I did get the login to work using google+ api, it let users connect their app with
+google+.
+
+I did not get to work on the rating because I didn't have the time, I worked on the
+skeleton of the client part of the app. It was pretty much what our group had for the presentation but not as nice looking. The program i wrote isnt very nice looking, 
+but it does connect to the server and it does add drivers to the server and it let
+riders know the drivers that are availiable in a list.
+
+I just wanted to write about what I did for the project.
